@@ -1,12 +1,12 @@
 # Glassnode Python API
 
-A simple Python library to query information from the Glassnode API
+A simple Python library to query information from the Glassnode API. 
 
 ## Getting Started
 
-You can get your API_KEY from https://studio.glassnode.com/user/api.
+You can get your API key from https://studio.glassnode.com/user/api.
 
-Once you have the API_KEY, you add it to your terminal by running the following command:
+Once you have the API key, you add it to your terminal by running the following command:
 ```
 export GLASSNODE_API_KEY=YOUR-KEY
 ```
